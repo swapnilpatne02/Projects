@@ -1,0 +1,64 @@
+body{
+	
+	background-color:gray;
+	text-align: center;
+}
+
+#loginform{
+margin-top: 100px;
+font-family: Garamond;
+font-size:20px;
+font-weight:bold;
+color: black;	
+}
+input[type=text] {
+  border: 2px solid black;
+  height: 40px;
+  background-color: #3CBC8D;
+  color: white;
+  font-family: Garamond;
+  font-size:20px;
+  border-radius: 4px;
+}
+input[type=password] {
+  border: 2px solid black;
+  height:40px;
+   background-color: #3CBC8D;
+  color: white;
+  font-family: Garamond;
+  font-size:20px;
+  border-radius: 4px;
+}
+input[type=submit]{
+  border: 2px solid black;
+  height:40px;
+  width: 100px;
+  background-color: #3CBC8D;
+  color: black;
+  font-size: 20px;
+  font-weight:bold;
+  font-family: Garamond;
+  border-radius: 4px;		
+}
+input[type=checkbox]{
+   margin-right: 10px;
+}
+input[type=email]{
+  border: 2px solid black;
+  height: 40px;
+  background-color: #3CBC8D;
+  color: white;
+  font-family: Garamond;
+  font-size:20px;
+  border-radius: 4px;
+}
+input[type=radio]{
+  font-family: Garamond;
+  font-size:20px;		
+}
+.custom-select{
+	width=200px;
+	height=80px;
+}
+
+	
